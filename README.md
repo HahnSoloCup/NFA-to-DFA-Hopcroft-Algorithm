@@ -2,7 +2,7 @@
 Theoretical computational model conversion and state minimization algorithm
 
 This algorithm was designed to take data regarding nondeterministic finite automata and transform them into deterministic finite automata. 
-These automata can also be optimized with a hopcroft state minimization implementation
+These automata can also be optimized with a hopcroft state minimization implementation. 
 Most of the code explaination and demonstration is included in the documentation.
 
 The Main - MinGW 
